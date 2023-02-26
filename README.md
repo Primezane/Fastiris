@@ -1,2 +1,2 @@
-# KochiKochi
+# Fastiris
 Simple Machine Learning
