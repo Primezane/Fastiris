@@ -1,0 +1,2 @@
+# KochiKochi
+Simple Machine Learning
